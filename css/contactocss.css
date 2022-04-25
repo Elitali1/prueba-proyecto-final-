@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+main{
+    background-color: black;
+    height: 100vh;
+    color: blue;
+    font-size: 200px;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+main i:hover{
+    color:rgb(255, 255, 255)
+    
+}
+.facebook{
+    font-size: 20px;
+    color: blue;
+}
+.whatsapp{
+    font-size: 20px;
+    color: blue;
+    
+}
+.instagram{
+    font-size: 20px;
+    color: blue;
+    
+}
+.youtube{
+    font-size: 20px;
+    color: blue;
+    
+}

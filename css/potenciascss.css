@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+h1{
+    font-family: fantasy;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-right: 5px solid red;
+    border-left: 5px solid red;
+}
+p{
+ color: white;
+ font-size: 30px;
+ text-align: center;
+}
+.container{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+    float: left;
+    margin-right: 50px;
+}
